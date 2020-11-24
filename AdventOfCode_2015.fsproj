@@ -4,7 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Program.fs" />
     <Compile Include="Modules/Utilities.fs" />
+    <Compile Include="day01/part01/day01_part01.fs" />
+    <Compile Include="day01/part01/day01_part01.fsx" />
+    <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
