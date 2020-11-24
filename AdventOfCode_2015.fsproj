@@ -7,6 +7,8 @@
     <Compile Include="Modules/Utilities.fs" />
     <Compile Include="day01/part01/day01_part01.fs" />
     <Compile Include="day01/part01/day01_part01.fsx" />
+    <Compile Include="day01/part02/day01_part02.fs" />
+    <Compile Include="day01/part02/day01_part02.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
